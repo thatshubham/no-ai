@@ -14,21 +14,24 @@ To be included in this list, a project should meet **any one or more** of the fo
 
 * Integrated Development Environments (IDEs) & text editors:
 
-  * Vim: A highly configurable text editor built to make creating and changing any kind of text very efficient.
+  * [Vim](https://www.vim.org): A highly configurable text editor built to make creating and changing any kind of text very efficient.
 
-  * Neovim: A hyperextensible Vim-based text editor.
+  * [Neovim](https://neovim.io): A hyperextensible Vim-based text editor.
 
-  * GNU Emacs: An extensible, customizable, free text editor and much more.
+  * [GNU Emacs](https://www.gnu.org/software/emacs/download.html): An extensible, customizable, free text editor and much more.
 
-  * Sublime Text: A sophisticated text editor for code, markup and prose. (Note: While some AI plugins exist, the core editor is AI-free).
-
-
-* Build Tools & Compilers:
+  * [Sublime Text](https://www.sublimetext.com): A sophisticated text editor for code, markup and prose. (Note: While some AI plugins exist, the core editor is AI-free).
+ 
+* Social Networks:
+  
+  * [Mastodon](https://joinmastodon.org): A is a free and open-source software platform for decentralized social networking with microblogging features similar to Twitter. 
+ 
+* Operating Systems:
+  * [Gentoo Linux](https://www.gentoo.org): Known for its source-based package management, offering a high degree of user control. (Has a stated policy against AI-generated contributions).
+ 
+* More Categories:
 
       Coming up.
-
-* Operating Systems:
-  * Gentoo Linux: Known for its source-based package management, offering a high degree of user control. (Has a stated policy against AI-generated contributions).
 
 ## No-AI project policies & manifestos
 
