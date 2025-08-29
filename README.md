@@ -24,7 +24,7 @@ To be included in this list, a project should meet **any one or more** of the fo
  
 * Email Providers:
   
-  * [Tutanota](https://tuta.com): A secure and private email service that offers end-to-end encryption for all data. Has a publicly stated policy against integrating AI features for privacy reasons. [Link](https://tuta.com/blog/no-ai-email)
+  * [Tutanota](https://tuta.com): A secure and private email service that offers end-to-end encryption for all data. Has a publicly stated policy against integrating AI features for privacy reasons. [[Link]](https://tuta.com/blog/no-ai-email)
  
  
 * Social Networks:
