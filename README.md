@@ -22,6 +22,11 @@ To be included in this list, a project should meet **any one or more** of the fo
 
   * [Sublime Text](https://www.sublimetext.com): A sophisticated text editor for code, markup and prose. (Note: While some AI plugins exist, the core editor is AI-free).
  
+* Email Providers:
+  
+  * [Tutanota](https://tuta.com): A secure and private email service that offers end-to-end encryption for all data. Has a publicly stated policy against integrating AI features for privacy reasons. [Link](https://tuta.com/blog/no-ai-email)
+ 
+ 
 * Social Networks:
   
   * [Mastodon](https://joinmastodon.org): A is a free and open-source software platform for decentralized social networking with microblogging features similar to Twitter. 
@@ -29,9 +34,6 @@ To be included in this list, a project should meet **any one or more** of the fo
 * Operating Systems:
   * [Gentoo Linux](https://www.gentoo.org): Known for its source-based package management, offering a high degree of user control. (Has a stated policy against AI-generated contributions).
  
-* More Categories:
-
-      Coming up.
 
 ## No-AI project policies & manifestos
 
