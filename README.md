@@ -41,6 +41,7 @@ To be included in this list, a project should meet **any one or more** of the fo
 
 * Web Browsers:
   * [Waterfox](https://www.waterfox.com/): Waterfox is a free and open-source web browser and fork of Firefox. It claims to be ethical and user-centric, emphasizing performance and privacy. Claims it will not include LLMs in their current form or for the foreseeable future. [[Link]](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+  * [Vivaldi](https://vivaldi.com/): Vivaldi is a cross-platform web browser based on Chromium. Its design and feature-set primarily targets power users. Claims it will not use an LLM to add chatbots, summarization solutions or suggestion engines. [[2025]](https://vivaldi.com/blog/keep-exploring/) [[2024]](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
 
 ## No-AI project policies & manifestos
 
