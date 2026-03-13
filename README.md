@@ -44,7 +44,7 @@ To ensure this directory remains universally useful to a broad audience, it prio
   * [Waterfox](https://www.waterfox.com/): Waterfox is a free and open-source web browser and fork of Firefox. It claims to be ethical and user-centric, emphasizing performance and privacy. Claims it will not include LLMs in their current form or for the foreseeable future. [[Link]](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
   * [Vivaldi](https://vivaldi.com/): Vivaldi is a cross-platform web browser based on Chromium. Its design and feature-set primarily targets power users. Claims it will not use an LLM to add chatbots, summarization solutions or suggestion engines. [[2025]](https://vivaldi.com/blog/keep-exploring/) [[2024]](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
   * [LibreWolf](https://librewolf.net): A custom, independent fork of Firefox with the primary goals of privacy, security, and user freedom. The development team has a publicly stated policy against supporting generative AI features, promising to remove or disable any that slip through. [[Link]](https://chaos.social/@librewolf/115716906957137196)
-
+  * [Pale Moon](https://www.palemoon.org/): A highly customizable, open-source web browser built on an independent platform with zero telemetry. The developers have a strict policy against integrating AI or LLMs within the browser, stating that probabilistic AI models have no place in a tool designed for reliably retrieving and consuming web content. [[Link]](https://forum.palemoon.org/viewtopic.php?t=33007)
 
 ## Community & further reading
 
