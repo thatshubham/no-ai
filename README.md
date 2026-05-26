@@ -54,7 +54,8 @@ To ensure this directory remains universally useful to a broad audience, it prio
 > Coming up. Links to more forums and other online communities where developers discuss traditional and AI-free development practices.
 
 ## No-AI project policies & manifestos
-> Coming up. I plan to list a collection of links to discussions, mailing list threads along with official policies from open-source and closed-source projects that have chosen to limit or ban AI-generated contributions.
+
+* [Zig Programming Language](https://ziglang.org/): The official Zig project maintains a strict No LLM/No AI policy for its ecosystem. The policy is comprehensive, strictly prohibiting the use of LLMs for generating code or prose, paraphrasing, grammar editing, translation, brainstorming and finding bugs. [[Link]](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy)
 
 ## How to Contribute
 
