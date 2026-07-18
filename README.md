@@ -29,7 +29,10 @@ To ensure this directory remains universally useful to a broad audience, it prio
 * Email Providers:
   
   * [Tutanota](https://tuta.com): A secure and private email service that offers end-to-end encryption for all data. Has a publicly stated policy against integrating AI features for privacy reasons. [[Link]](https://tuta.com/blog/no-ai-email)
- 
+
+ * Creative Tools:
+   * [Procreate](https://procreate.com): A popular raster graphics editor app for digital painting developed for iOS and iPadOS. The developers have taken a firm, public stance against integrating any generative AI features, promising not to access user art or track user activity. [[Link]](https://procreate.com/ai) 
+   
  
 * Social Networks:
   
@@ -37,8 +40,8 @@ To ensure this directory remains universally useful to a broad audience, it prio
   * [Pillowfort](https://www.pillowfort.social): A social blogging platform with a blend of features inspired by Tumblr and LiveJournal. Their Terms of Service explicitly prohibit the posting of images created through the use of generative AI programs. [[Link]](https://www.pillowfort.social/posts/4317673)
  
 * Operating Systems:
+  
   * [Gentoo Linux](https://www.gentoo.org): Known for its source-based package management, offering a high degree of user control. It has a stated policy against AI-generated contributions.
-
 
 * Web Browsers:
   * [Waterfox](https://www.waterfox.com/): Waterfox is a free and open-source web browser and fork of Firefox. It claims to be ethical and user-centric, emphasizing performance and privacy. Claims it will not include LLMs in their current form or for the foreseeable future. [[Link]](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
