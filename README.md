@@ -21,6 +21,8 @@ To ensure this directory remains universally useful to a broad audience, it prio
   * [GNU Emacs](https://www.gnu.org/software/emacs/download.html): An extensible, customizable, free text editor and much more.
 
   * [Sublime Text](https://www.sublimetext.com): A sophisticated text editor for code, markup and prose. (Note: While some AI plugins exist, the core editor is AI-free).
+
+  * [Gram](https://gram-editor.com/): An actively maintained fork of the Zed code editor with AI integration and telemetry removed. The developer explains their motivation in their mission statement. [[Link]](https://gram-editor.com/docs/mission/).
  
 * Office Suite
 
@@ -48,6 +50,9 @@ To ensure this directory remains universally useful to a broad audience, it prio
   * [Vivaldi](https://vivaldi.com/): Vivaldi is a cross-platform web browser based on Chromium. Its design and feature-set primarily targets power users. Claims it will not use an LLM to add chatbots, summarization solutions or suggestion engines. [[2025]](https://vivaldi.com/blog/keep-exploring/) [[2024]](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
   * [LibreWolf](https://librewolf.net): A custom, independent fork of Firefox with the primary goals of privacy, security, and user freedom. The development team has a publicly stated policy against supporting generative AI features, promising to remove or disable any that slip through. [[Link]](https://chaos.social/@librewolf/115716906957137196)
   * [Pale Moon](https://www.palemoon.org/): A highly customizable, open-source web browser built on an independent platform with zero telemetry. The developers have a strict policy against integrating AI or LLMs within the browser, stating that probabilistic AI models have no place in a tool designed for reliably retrieving and consuming web content. [[Link]](https://forum.palemoon.org/viewtopic.php?t=33007)
+
+* Git Repository Hosting
+  * [Codeberg](https://codeberg.org/): A nonprofit repo-hosting site that recently banned LLM contributions. They host the source code for several projects on this list, notably Zig, LibreWolf, and Gram. [[Link]](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
 
 ## Community & further reading
 
