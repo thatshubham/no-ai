@@ -42,6 +42,7 @@ To ensure this directory remains universally useful to a broad audience, it prio
 * Operating Systems:
   
   * [Gentoo Linux](https://www.gentoo.org): Known for its source-based package management, offering a high degree of user control. It has a stated policy against AI-generated contributions.
+  * [Void Linux](https://voidlinux.org): Provides a mono repository containing templates for building packages from source. All contributions are expected to be made by humans. [[Link]](https://github.com/void-linux/.github/blob/master/CONTRIBUTING.md#ai-usage). The developers ensure that these requirements are met. [[Link]](https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan).
 
 * Web Browsers:
   * [Waterfox](https://www.waterfox.com/): Waterfox is a free and open-source web browser and fork of Firefox. It claims to be ethical and user-centric, emphasizing performance and privacy. Claims it will not include LLMs in their current form or for the foreseeable future. [[Link]](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
