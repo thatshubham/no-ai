@@ -42,6 +42,7 @@ To ensure this directory remains universally useful to a broad audience, it prio
 * Operating Systems:
   
   * [Gentoo Linux](https://www.gentoo.org): Known for its source-based package management, offering a high degree of user control. It has a stated policy against AI-generated contributions.
+  * [NetBSD](https://www.netbsd.org): NetBSD bans AI-generated code to preserve clear copyright and meet licensing goals.
 
 * Web Browsers:
   * [Waterfox](https://www.waterfox.com/): Waterfox is a free and open-source web browser and fork of Firefox. It claims to be ethical and user-centric, emphasizing performance and privacy. Claims it will not include LLMs in their current form or for the foreseeable future. [[Link]](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
