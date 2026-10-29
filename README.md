@@ -55,6 +55,7 @@ To ensure this directory remains universally useful to a broad audience, it prio
   * [Why I'm not letting the juniors use GenAI for coding](https://lukeplant.me.uk/blog/posts/why-im-not-letting-the-juniors-use-genai-for-coding/) by Luke Plant: A post discussing the negative impacts of LLMs on the learning curve, code comprehension and long-term skill development of junior developers.
   * [Modern software quality, or why I think using language models for programming is a bad idea](https://softwarecrisis.dev/letters/ai-and-software-quality/) by Baldur Bjarnason: A critical analysis arguing that language models act as "liability engines" that generate code developers don't understand, ultimately accelerating the accumulation of technical debt.
   * [Is there a no-AI audience?](https://thatshubham.com/blog/ai) by Shubham Bose: A blog post exploring the growing user frustration with forced, opt-out AI integrations in everyday software, the resulting privacy and performance implications, and the core philosophy behind building this no-AI directory.
+  * [AI Is Destroying the World](https://gornak40.org/blog/ai-is-destroying-the-world.html) by Alexander Gornak: A blog post explaining why AI "tools" are not tools and what a destructive impact the LLMs could have on education, institution of trust and culture.
 > Coming up. Links to more forums and other online communities where developers discuss traditional and AI-free development practices.
 
 ## No-AI project policies & manifestos
