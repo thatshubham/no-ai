@@ -41,11 +41,6 @@ To ensure this directory remains universally useful to a broad audience, it prio
   * [Mastodon](https://joinmastodon.org): It is a free and open-source software platform for decentralized social networking with microblogging features similar to Twitter.
   * [Pillowfort](https://www.pillowfort.social): A social blogging platform with a blend of features inspired by Tumblr and LiveJournal. Their Terms of Service explicitly prohibit the posting of images created through the use of generative AI programs. [[Link]](https://www.pillowfort.social/posts/4317673)
  
-* Operating Systems:
-  
-  * [Gentoo Linux](https://www.gentoo.org): Known for its source-based package management, offering a high degree of user control. It has a stated policy against AI-generated contributions.
-  * [NetBSD](https://www.netbsd.org): NetBSD is a free and open-source Unix-like operating system based on the Berkeley Software Distribution. It prohibits AI-generated code contributions. [[Link]](https://www.netbsd.org/developers/commit-guidelines.html)
-
 * Web Browsers:
   * [Waterfox](https://www.waterfox.com/): Waterfox is a free and open-source web browser and fork of Firefox. It claims to be ethical and user-centric, emphasizing performance and privacy. Claims it will not include LLMs in their current form or for the foreseeable future. [[Link]](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
   * [Vivaldi](https://vivaldi.com/): Vivaldi is a cross-platform web browser based on Chromium. Its design and feature-set primarily targets power users. Claims it will not use an LLM to add chatbots, summarization solutions or suggestion engines. [[2025]](https://vivaldi.com/blog/keep-exploring/) [[2024]](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
@@ -54,6 +49,14 @@ To ensure this directory remains universally useful to a broad audience, it prio
 
 * Git Repository Hosting
   * [Codeberg](https://codeberg.org/): A nonprofit repo-hosting site that recently banned LLM contributions. They host the source code for several projects on this list, notably Zig, LibreWolf, and Gram. [[Link]](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
+ 
+  ---
+  
+* Operating Systems:  
+_(Only category which adheres to no-AI code contributions in this list. Currently in the iffy category since this list is made for software that doesn't have AI features enabled by default or does away with them altogether. Several other lists focus on software made with no LLM generated code in the first place. This isn't that list.)_
+  
+  * [Gentoo Linux](https://www.gentoo.org): Known for its source-based package management, offering a high degree of user control. It has a stated policy against AI-generated contributions.
+  * [NetBSD](https://www.netbsd.org): NetBSD is a free and open-source Unix-like operating system based on the Berkeley Software Distribution. It prohibits AI-generated code contributions. [[Link]](https://www.netbsd.org/developers/commit-guidelines.html)
 
 ## Community & further reading
 
