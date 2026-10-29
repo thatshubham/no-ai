@@ -69,6 +69,7 @@ _(Only category which adheres to no-AI code contributions in this list. Currentl
 ## No-AI project policies & manifestos
 
 * [Zig Programming Language](https://ziglang.org/): The official Zig project maintains a strict No LLM/No AI policy for its ecosystem. The policy is comprehensive, strictly prohibiting the use of LLMs for generating code or prose, paraphrasing, grammar editing, translation, brainstorming and finding bugs. [[Link]](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy)
+* [Another list](https://codeberg.org/ethical-foss/ai-free-foss-alternatives) with more AI-free softwares listed.
 
 ## How to Contribute
 
