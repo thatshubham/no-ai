@@ -22,7 +22,7 @@ To ensure this directory remains universally useful to a broad audience, it prio
 
   * [Sublime Text](https://www.sublimetext.com): A sophisticated text editor for code, markup and prose. (Note: While some AI plugins exist, the core editor is AI-free).
 
-  * [Gram](https://gram-editor.com/): An actively maintained fork of the Zed code editor with AI integration and telemetry removed. The developer explains their motivation in their mission statement. [[Link]](https://gram-editor.com/docs/mission/).
+  * [Gram](https://gram-editor.com/): An actively maintained fork of the Zed code editor with AI integration and telemetry removed. The developer explains their motivation in their mission statement. [[Link]](https://gram-editor.com/docs/mission/)
  
 * Office Suite
 
