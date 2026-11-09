@@ -30,6 +30,7 @@ To ensure this directory remains universally useful to a broad audience, it prio
  
 * Email Providers:
   
+  * [Aster Mail](https://astermail.org): A secure and private email service that offers end-to-end encryption. Publicly states no ads, no scanning, and no AI reading your mail. [[Link]](https://astermail.org)
   * [Tutanota](https://tuta.com): A secure and private email service that offers end-to-end encryption for all data. Has a publicly stated policy against integrating AI features for privacy reasons. [[Link]](https://tuta.com/blog/no-ai-email)
 
  * Creative Tools:
